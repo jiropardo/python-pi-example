@@ -1,9 +1,8 @@
 def main(msg):
-<<<<<<< HEAD
-	//Adding the secon comment to this file
-=======
-	// PRINT a message 
->>>>>>> refs/remotes/origin/master
+   // No longer need comments
     print(msg)
+
+def secondary()
+	print("New function")
 
 main("Hello People")
