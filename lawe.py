@@ -1,2 +1,4 @@
-lawe=1+1
-print(lawe)
+def main(msg):
+    print(msg)
+
+main("Hello People")
